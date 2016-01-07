@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Release</key>
+	<dict>
+		<key>AppLoggingEnabled</key>
+		<string>No</string>
+		<key>AppAPIEndpoint</key>
+		<string>http://www.bing.com</string>
+	</dict>
+	<key>Staging</key>
+	<dict>
+		<key>AppLoggingEnabled</key>
+		<true/>
+		<key>AppAPIEndpoint</key>
+		<string>http://www.google.com</string>
+	</dict>
+</dict>
+</plist>
